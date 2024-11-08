@@ -38,23 +38,23 @@ https://www.unb.ca/cic/datasets/iomt-dataset-2024.html
 
 ## Preview
 
-![Screenshot 2024-10-20 172627](https://github.com/user-attachments/assets/779aa3b6-6c60-4f74-b07d-416ae03e2a10)
+![Screenshot 2024-10-20 172627](https://github.com/user-attachments/assets/d1d90ba8-2d59-40cc-9049-d2b1dc135362)
 
 <br>
 
-![Screenshot 2024-10-20 172657](https://github.com/user-attachments/assets/f51eb07f-3905-4c86-a699-f1b0f17a6467)
+![Screenshot 2024-10-20 172657](https://github.com/user-attachments/assets/da4d20ab-6510-4541-80d3-1ce33fe0c552)
 
 <br>
 
-![Screenshot 2024-10-20 172723](https://github.com/user-attachments/assets/1dfcbb66-8be8-495a-9531-3ed6dc639ea3)
+![Screenshot 2024-10-20 172723](https://github.com/user-attachments/assets/18b81b64-523e-4c6e-aee3-1c65ed20d73d)
 
 <br>
 
-![Screenshot 2024-10-20 173212](https://github.com/user-attachments/assets/d57d4e50-27a1-4635-a2b3-7d76c516c0bb)
+![Screenshot 2024-10-20 173212](https://github.com/user-attachments/assets/c05ecd66-5598-4270-bf2f-abd17198c3a8)
 
 <br>
 
-![Screenshot 2024-10-20 173253](https://github.com/user-attachments/assets/ffe040ab-20db-4152-9214-0b30f5abca68)
+![Screenshot 2024-10-20 173253](https://github.com/user-attachments/assets/9948fad9-f6b4-4760-8dfa-2ff00a3bbdba)
 
 
 ## Installation
